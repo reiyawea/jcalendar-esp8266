@@ -1,6 +1,7 @@
 # J-Calendar（ESP8266版本）
 原作：[JADE-Jerry/jcalendar](https://github.com/JADE-Jerry/jcalendar)  
-完全~~照搬~~（划掉）沿用了原版的排版设计，做了一些优化以适配ESP8266
+完全~~照搬~~（划掉）沿用了原版的排版设计，做了一些优化以适配ESP8266  
+<img src="./assets/sample.jpg" width="50%">
 # 相比原作的主要变动点
 * 修改源码文件结构，精简文件数量，简化调用和传参
 * 配网菜单改为单层，同时配置AP和天气KEY等信息
